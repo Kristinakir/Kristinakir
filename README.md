@@ -6,6 +6,7 @@
 <p><a href="https://spb.hh.ru/resume/c05d57e7ff0ccb08e50039ed1f45797031466b">Мое резюме</a></p>
 <h3>Портфолио</h3>
 <h5>Тестовая документация</h5>
+<p><a href="https://docs.google.com/spreadsheets/d/1BnpCVM0_kungm1fayrP86nz-LmFlIe4UCOcThpaq9q4/edit?usp=sharing">Техники тестирования</a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/18ly02ZycnZGOZR6Ex9GROQ6Vccsfqf5ntEAmk-dB3D0/edit?usp=sharing">Чек листы</a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/14RSJvijKodK_w-DSXof5n-9JIeyOfXKCd-l9Cl0eBDg/edit?usp=sharing">Тест-кейсы</a></p>
 <p><a href="https://kirnitskaiakir.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7BYandex%20Carshering%7D">Яндекс каршеринг: Баг репорты YouTrack</a></p>
