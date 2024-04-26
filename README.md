@@ -10,4 +10,4 @@
 <p><a href="https://docs.google.com/spreadsheets/d/18ly02ZycnZGOZR6Ex9GROQ6Vccsfqf5ntEAmk-dB3D0/edit?usp=sharing">Чек листы</a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/14RSJvijKodK_w-DSXof5n-9JIeyOfXKCd-l9Cl0eBDg/edit?usp=sharing">Тест-кейсы</a></p>
 <p><a href="https://docs.google.com/spreadsheets/d/1C1J4TpLuv_4Wh9d-C1drFGHa9O4w-WI_4UkYJEUrQXE/edit?usp=sharing">Баг репорты</a></p>
-<p><a href="https://kirnitskaiakir.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7BYandex%20Carshering%7D">Яндекс каршеринг: Баг репорты YouTrack</a></p>
+<p><a href="https://kirnitskaiakir.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7BYandex%20Carshering%7D">Баг репорты YouTrack</a></p>
