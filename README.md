@@ -6,5 +6,5 @@
 <p><a href="https://spb.hh.ru/resume/c05d57e7ff0ccb08e50039ed1f45797031466b">Мое резюме</a></p>
 <h3>Портфолио</h3>
 <h5>Тестовая документация</h5>
-<p><a href="https://docs.google.com/spreadsheets/d/18OqI86zGgbhwsfGvCT4VK-f5j50wWcjppe-aLTVt66k/edit?usp=sharing">Тест-кейсы и чек листы тестирование Яндекс каршеринг</a></p>
-<p><a href="https://docs.google.com/spreadsheets/d/1Fx0na2mgHe04Ny3npAGZMoQdzDf7hb7kgpm3sIuO3Eg/edit?usp=sharing">Классы эквивалентности, граничные значения, тест-кейсф и бвг репорты Яндекс такси</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/18OqI86zGgbhwsfGvCT4VK-f5j50wWcjppe-aLTVt66k/edit?usp=sharing">Яндекс каршеринг: Тест-кейсы и чек листы</a></p>
+<p><a href="https://docs.google.com/spreadsheets/d/1Fx0na2mgHe04Ny3npAGZMoQdzDf7hb7kgpm3sIuO3Eg/edit?usp=sharing">Яндекс такси: Классы эквивалентности, граничные значения, тест-кейсы и баг репорты</a></p>
